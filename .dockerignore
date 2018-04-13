@@ -1,0 +1,7 @@
+node_modules/
+public/
+.git/
+npm-debug.log
+.gitignore
+LICENSE
+README.md
